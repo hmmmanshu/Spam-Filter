@@ -15,4 +15,4 @@ ___
 **This process could be performed using pipeline feature of scikit learn as has been shown later in the notebook**
 The pipeline simply contains all the steps we performed in form of tuples and it performs them for us
 ___
-**Note: ** I have made the model upon naive_bayes classifier, but any suitable classifier could be used.
+**Note:** I have made the model upon naive_bayes classifier, but any suitable classifier could be used.
